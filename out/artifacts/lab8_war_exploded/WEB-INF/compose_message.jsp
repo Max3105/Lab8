@@ -6,14 +6,11 @@
 </head>
 <body>
 <form action="/Laba8/send_message.do" method="post">
-    Текст сообщения:
+    Text message:
     <input type="text" name="message" style="width: 50%">
-    <input type="submit" value="Отправить">
-    <a href="/Laba8/logout.do" target="_top">Выйти из чата</a>
+    <input type="submit" value="Send message">
+    <a href="/Laba8/logout.do" target="_top">quit chat</a>
     <br>
-    <input type="radio" name="labeled" value="1" id="labeled_1"/><label for="labeled_1">шёпот</label>
-    <input type="radio" checked name="labeled" value="2" id="labeled_2"/><label for="labeled_2">обычный</label>
-    <input type="radio" name="labeled" value="3" id="labeled_3"/><label for="labeled_3">крик</label>
 </form>
 </body>
 </html>

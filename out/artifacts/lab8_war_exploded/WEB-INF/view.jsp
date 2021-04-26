@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Мега-чат: Сообщения</title>
+    <title>Mega-chat: Message</title>
 </head>
 <frameset rows="*,60">
     <frame name="messages" src="/Laba8/messages.do">

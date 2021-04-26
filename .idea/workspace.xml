@@ -56,6 +56,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -453,6 +454,7 @@
       <workItem from="1618864981002" duration="34000" />
       <workItem from="1619444654149" duration="5494000" />
       <workItem from="1619451842219" duration="1836000" />
+      <workItem from="1619470535626" duration="3591000" />
     </task>
     <task id="LOCAL-00001" summary="Calendar done">
       <created>1590089351877</created>
