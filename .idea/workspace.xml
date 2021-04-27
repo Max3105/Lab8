@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46518424-bb71-472a-a953-879c4c790b94" name="Default Changelist" comment="Calendar done" />
+    <list default="true" id="46518424-bb71-472a-a953-879c4c790b94" name="Default Changelist" comment="Calendar done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -454,7 +456,10 @@
       <workItem from="1618864981002" duration="34000" />
       <workItem from="1619444654149" duration="5494000" />
       <workItem from="1619451842219" duration="1836000" />
-      <workItem from="1619470535626" duration="3591000" />
+      <workItem from="1619470535626" duration="4069000" />
+      <workItem from="1619474969780" duration="698000" />
+      <workItem from="1619511629507" duration="284000" />
+      <workItem from="1619537172608" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Calendar done">
       <created>1590089351877</created>
